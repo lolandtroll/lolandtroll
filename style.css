@@ -1,0 +1,22 @@
+.container{
+margin: auto;
+align-content: center;
+width: auto;
+max-width: 80%;
+}
+
+.ad_section{
+margin-bottom: 50px;
+}
+
+.ad_title{
+margin-bottom: 10px;
+}
+
+.ad_background{
+display: flex;
+margin: 0 auto;
+justify-content: center;
+background-color: #fbfbfb;
+padding: 20px;
+}
